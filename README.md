@@ -1,4 +1,4 @@
-## Bash scripts
+## Version control scripts
 <br>
 
 This repository contains a few bash scripts for version control utilities. **If the scripts dont want to execute, you have to make them executable** by
